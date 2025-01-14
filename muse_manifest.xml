@@ -1,0 +1,219 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GH Games.com" resolutions="1x" timestamp="1719334090404">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_proba.css" crc="355784879" ref="about:contact:index"/>
+    <file name="about.css" crc="4204197323" ref="about"/>
+    <file name="contact.css" crc="343414128" ref="contact"/>
+    <file name="index.css" crc="164596026" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about:contact"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index:about"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:about:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3971664433" ref="index"/>
+    <file name="highresscreenshot00015235-u726-fr.png" crc="3960796798" ref="index"/>
+    <file name="u727-8.png" crc="3996061491" ref="index"/>
+    <file name="u3151-6.png" crc="4244816060" ref="index"/>
+    <file name="pasted image 36x36.png" crc="167986542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact"/>
+    <file name="u748.png" crc="97186265" ref="index"/>
+    <file name="u748-r.png" crc="3922467061" ref="index"/>
+    <file name="u755.png" crc="3861400153" ref="index"/>
+    <file name="u755-r.png" crc="4188501009" ref="index"/>
+    <file name="ресурс 3.png" crc="4189018323" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="photo_2024-06-24_01-21-48.jpg" crc="4109479501" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo_2024-06-24_01-21-48-u697-r-fr.png" crc="217225974" ref="index"/>
+    <file name="u698.png" crc="212458" ref="index"/>
+    <file name="u698-r.png" crc="3779906130" ref="index"/>
+    <file name="u702-4.png" crc="165116757" ref="index"/>
+    <file name="steam_icon_logosvg.png" crc="3964272342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_2024-06-24_02-20-43.jpg" crc="244959421" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u632-4.png" crc="3974885176" ref="index"/>
+    <file name="image_2024-06-24_02-18-26.jpg" crc="4090982162" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_2024-06-24_02-18-26-u647-r-fr.png" crc="4197635912" ref="index"/>
+    <file name="u648.png" crc="3938968974" ref="index"/>
+    <file name="u648-r.png" crc="403499016" ref="index"/>
+    <file name="u644-9.png" crc="4244430711" ref="index"/>
+    <file name="2124.png" crc="414588645" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2124-u637-r-fr.png" crc="4234054333" ref="index"/>
+    <file name="u639.png" crc="3978184149" ref="index"/>
+    <file name="u639-r.png" crc="3823278821" ref="index"/>
+    <file name="u640-9.png" crc="4068513034" ref="index"/>
+    <file name="image_2024-06-24_02-07-08.jpg" crc="170169306" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_2024-06-24_02-07-08-u661-r-fr.png" crc="3931428605" ref="index"/>
+    <file name="u659.png" crc="83935191" ref="index"/>
+    <file name="u659-r.png" crc="265186968" ref="index"/>
+    <file name="u663-11.png" crc="119406630" ref="index"/>
+    <file name="image_2024-06-24_02-11-07.jpg" crc="518248242" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_2024-06-24_02-11-07-u652-r-fr.png" crc="149113707" ref="index"/>
+    <file name="u657.png" crc="30757731" ref="index"/>
+    <file name="u657-r.png" crc="4053607456" ref="index"/>
+    <file name="u653-9.png" crc="443909164" ref="index"/>
+    <file name="pasted image 36x36-crop-u3161.png" crc="4288656390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steam_ico.png" crc="20698518" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="vk_ico.png" crc="3835486726" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="reddit_logo.png" crc="440195879" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="discord_ico.png" crc="4153656603" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="instagram_ico.png" crc="463260756" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="telegram_ico.png" crc="4131349468" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="youtube_ico.png" crc="4006086115" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="2-u2269.png" crc="3829910570" ref="about"/>
+    <file name="2-u2293.png" crc="3829910570" ref="about"/>
+    <file name="2-u2307.png" crc="3829910570" ref="about"/>
+    <file name="2-u2328.png" crc="3829910570" ref="about"/>
+    <file name="без имени-1.jpg" crc="65036743" ref="about:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="без имени-1.png" crc="528350568" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u2447-4.png" crc="491218147" ref="about"/>
+    <file name="ghg.png" crc="3821153139" seo="true" ref="about:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="лого_фон_инверсия.jpg" crc="3878857607" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u3039.png" crc="99828414" ref="about"/>
+    <file name="u3039-r.png" crc="99828414" ref="about"/>
+    <file name="u3036-4.png" crc="3874639122" ref="about"/>
+    <file name="u3195-4.png" crc="4038957471" ref="about"/>
+    <file name="u3297-4.png" crc="4285002489" ref="about"/>
+    <file name="u3201-6.png" crc="429974261" ref="about"/>
+    <file name="u3260-4.png" crc="4092190410" ref="about"/>
+    <file name="pasted image 36x36-crop-u3182.png" crc="4288656390" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="parker.jpg" crc="115710113" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="parker-u2361-r-fr.png" crc="509203095" ref="about"/>
+    <file name="u2360.png" crc="94471508" ref="about"/>
+    <file name="u2360-r.png" crc="93659495" ref="about"/>
+    <file name="u2924.png" crc="290681363" ref="about"/>
+    <file name="u2924-r.png" crc="4064496087" ref="about"/>
+    <file name="u2359-12.png" crc="62729862" ref="about"/>
+    <file name="фartem.jpg" crc="4141164456" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="фartem-u2357-r-fr.png" crc="445425275" ref="about"/>
+    <file name="u2356.png" crc="17343808" ref="about"/>
+    <file name="u2356-r.png" crc="393981817" ref="about"/>
+    <file name="u2947.png" crc="15297128" ref="about"/>
+    <file name="u2947-r.png" crc="116556858" ref="about"/>
+    <file name="u2354-8.png" crc="190556553" ref="about"/>
+    <file name="evenlyvoice.jpg" crc="4196805109" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="evenlyvoice-u2371-r-fr.png" crc="4226833237" ref="about"/>
+    <file name="u2372.png" crc="3782678858" ref="about"/>
+    <file name="u2372-r.png" crc="3933271357" ref="about"/>
+    <file name="u2481.png" crc="156780290" ref="about"/>
+    <file name="u2481-r.png" crc="345294127" ref="about"/>
+    <file name="u2373-12.png" crc="3808710603" ref="about"/>
+    <file name="u2366.png" crc="4036467006" ref="about"/>
+    <file name="u2366-r.png" crc="4257250466" ref="about"/>
+    <file name="wdfr.jpg" crc="3839825840" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="wdfr-u2583-r-fr.png" crc="3897253635" ref="about"/>
+    <file name="u2584.png" crc="129698888" ref="about"/>
+    <file name="u2584-r.png" crc="3893429941" ref="about"/>
+    <file name="u2586-12.png" crc="3760789984" ref="about"/>
+    <file name="u2055.png" crc="97186265" ref="about"/>
+    <file name="u2055-r.png" crc="3922467061" ref="about"/>
+    <file name="u2049.png" crc="3861400153" ref="about"/>
+    <file name="u2049-r.png" crc="4188501009" ref="about"/>
+    <file name="2-u3480.png" crc="3836696387" ref="contact"/>
+    <file name="2-u3501.png" crc="3836696387" ref="contact"/>
+    <file name="2-u3477.png" crc="3836696387" ref="contact"/>
+    <file name="2-u3499.png" crc="3836696387" ref="contact"/>
+    <file name="u3657-4.png" crc="27347523" ref="contact"/>
+    <file name="u3493-8.png" crc="403689500" ref="contact"/>
+    <file name="u3575-8.png" crc="3968076136" ref="contact"/>
+    <file name="u3484.png" crc="334611821" ref="contact"/>
+    <file name="u3484-r.png" crc="334611821" ref="contact"/>
+    <file name="u3469.png" crc="97186265" ref="contact"/>
+    <file name="u3469-r.png" crc="3922467061" ref="contact"/>
+    <file name="u3469-a.png" crc="472999500" ref="contact"/>
+    <file name="u3463-4-a.png" crc="168743196" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="267636666" seo="true" mt="1719332450663" redirect="true"/>
+  <file name="about.html" crc="308775563" seo="true" mt="1719333980408" redirect="true"/>
+  <file name="contact.html" crc="281000650" seo="true" mt="1719333149715" redirect="true"/>
+</manifest>

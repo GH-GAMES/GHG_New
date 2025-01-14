@@ -1,0 +1,1200 @@
+.version.index {
+    color: #000009;
+    background-color: #CF893A;
+}
+
+#page {
+    z-index: 1;
+    width: 1020px;
+    min-height: 1833px;
+    background-image: none;
+    border-width: 0px;
+    border-color: #000000;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ppu725 {
+    z-index: 0;
+    width: 0.01px;
+    margin-right: -10000px;
+    margin-left: -100px;
+}
+
+#pu725 {
+    z-index: 113;
+    width: 0.01px;
+}
+
+#u725 {
+    z-index: 113;
+    height: 766px;
+    background-color: #000000;
+}
+
+.js body {
+    visibility: hidden;
+}
+
+.js body.initialized {
+    visibility: visible;
+}
+
+#u725-bw {
+    z-index: 113;
+    height: 766px;
+}
+
+#u726 {
+    z-index: 114;
+    min-height: 765.6999999999998px;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    padding-bottom: 0px;
+    background: #CCCCCC url("../images/car_2B.png") no-repeat center center;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-size: cover;
+}
+
+#u726_align_to_page {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 1020px;
+    left: -100px;
+    padding-top: 176px;
+    padding-bottom: 63px;
+}
+
+#pu727-8 {
+    z-index: 116;
+    width: 0.01px;
+    left: 11px;
+    position: relative;
+}
+
+#u727-8 {
+    z-index: 116;
+    display: block;
+    vertical-align: top;
+    position: relative;
+    margin-right: -10000px;
+    left: 114px;
+}
+
+#u3151-6 {
+    z-index: 124;
+    display: block;
+    vertical-align: top;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 368px;
+    
+}
+
+#u766 {
+    z-index: 141;
+    width: 36px;
+    background-color: transparent;
+    left: 592px;
+    margin-top: 39px;
+    position: relative;
+}
+
+#u726-bw {
+    z-index: 114;
+    min-height: 765.6999999999998px;
+}
+
+#u1794 {
+    z-index: 115;
+    height: 85px;
+    background-color: #000000;
+    opacity: 0.28;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=28.000000000000004)";
+    filter: alpha(opacity=28.000000000000004);
+}
+
+#u1794-bw {
+    z-index: 115;
+    height: 85px;
+}
+
+#menuu730 {
+    z-index: 130;
+    width: 317px;
+    height: 34px;
+    border-width: 0px;
+    border-color: transparent;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 28px;
+    left: 826px;
+}
+
+#u745 {
+    width: 146px;
+    min-height: 34px;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+}
+
+#u746 {
+    width: 146px;
+    background-color: transparent;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+#u746:hover {
+    width: 146px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u746:active {
+    width: 146px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u748 {
+    height: 24px;
+    width: 63px;
+    vertical-align: top;
+    position: relative;
+    margin-right: -10000px;
+    top: 5px;
+    left: 41px;
+    background: transparent url("../images/u748.png") no-repeat 0px 0px;
+}
+
+#u746:hover #u748 {
+    background: transparent url("../images/u748-r.png") no-repeat 0px 0px;
+}
+
+#u752 {
+    width: 169px;
+    min-height: 34px;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+    left: 148px;
+}
+
+#u753 {
+    width: 169px;
+    background-color: transparent;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+#u753:hover {
+    width: 169px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u753:active {
+    width: 169px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u755 {
+    height: 24px;
+    width: 86px;
+    vertical-align: top;
+    position: relative;
+    margin-right: -10000px;
+    top: 5px;
+    left: 41px;
+    background: transparent url("../images/contact_white.png") no-repeat 0px 0px;
+}
+
+#u753:hover #u755 {
+    background: transparent url("../images/contact_orange.png") no-repeat 0px 0px;
+}
+
+#u1301 {
+    z-index: 145;
+    width: 221px;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 22px;
+    left: 120px;
+}
+
+#verh {
+    position: relative;
+    margin-right: -10000px;
+    width: 22px;
+}
+
+#u693 {
+    z-index: 2;
+    min-height: 366px;
+    background-color: #000000;
+    padding-bottom: 6px;
+}
+
+#u693:hover {
+    background-color: #000000;
+    min-height: 366px;
+    margin: 0px;
+}
+
+#game {
+    position: relative;
+    margin-right: -10000px;
+    width: 22px;
+    margin-top: 6px;
+}
+
+#buttonu695 {
+    z-index: 4;
+    width: 980px;
+    height: 298px;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.5s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    background-image: url("../images/blank.gif");
+    border-color: #787878;
+    background-color: transparent;
+    border-radius: 20px;
+    padding-bottom: 17px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 51px;
+    left: 120px;
+}
+
+#buttonu695:hover {
+    border-radius: 20px;
+    width: 980px;
+    height: 298px;
+    min-height: 0px;
+    margin: 51px -10000px 0px 0px;
+}
+
+#buttonu695::before,
+#buttonu695:hover::before {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 20px;
+    -webkit-transition: box-shadow 0.5s ease 0s;
+    transition: box-shadow 0.5s ease 0s;
+    box-shadow: inset 0px 0px 0px rgba(255, 255, 255, 0), inset 0px 0px 0px rgba(255, 255, 255, 0);
+}
+
+#buttonu695.ButtonSelected {
+    -webkit-opacity: 0.9999;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.5s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    width: 980px;
+    height: 298px;
+    min-height: 0px;
+    margin: 51px -10000px 0px 0px;
+}
+
+#u697 {
+    z-index: 5;
+    width: 434px;
+    height: 250px;
+    -webkit-transition-duration: 0s;
+    -webkit-transition-delay: 0s;
+    transition-duration: 0s;
+    transition-delay: 0s;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 1px;
+    background: transparent url("../images/car_4.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#u697::before {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+    box-shadow: none;
+}
+
+#buttonu695:hover #u697 {
+    -webkit-transition-duration: 0.3s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-duration: 0.3s;
+    transition-delay: 0s;
+    transition-timing-function: ease-in-out;
+    box-shadow: 0px 0px 17px rgba(255, 174, 18, 0.55), 0px 0px 17px rgba(255, 174, 18, 0.55);
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 250px;
+    min-height: 0px;
+    margin: 1px -10000px 0px 0px;
+    background: transparent url("../images/car_4B.png") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu695:hover #u697::before {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    -webkit-transition: box-shadow 0.3s ease-in-out 0s;
+    transition: box-shadow 0.3s ease-in-out 0s;
+    box-shadow: inset 0px 0px 0px rgba(255, 174, 18, 0), inset 0px 0px 0px rgba(255, 174, 18, 0);
+}
+
+#buttonu695.ButtonSelected #u697 {
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.5s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 250px;
+    min-height: 0px;
+    margin: 1px -10000px 0px 0px;
+    background: transparent url("../images/car_4.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu695.ButtonSelected #u697::before {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    -webkit-transition: box-shadow 0.5s ease 0s;
+    transition: box-shadow 0.5s ease 0s;
+    box-shadow: inset 0px 0px 8px rgba(255, 255, 255, 0.45), inset 0px 0px 8px rgba(255, 255, 255, 0.45);
+}
+
+#ppu698 {
+    z-index: 7;
+    width: 0.01px;
+    padding-bottom: 0px;
+    margin-right: -10000px;
+    margin-left: 483px;
+}
+
+#u698 {
+    z-index: 8;
+    height: 31px;
+    width: 388px;
+    vertical-align: top;
+    position: relative;
+    background: transparent url("../images/u698.png") no-repeat 0px 0px;
+}
+
+#buttonu695:hover #u698 {
+    background: transparent url("../images/u698-r.png") no-repeat 0px 0px;
+}
+
+#u702-4 {
+    z-index: 10;
+    display: block;
+    vertical-align: top;
+    position: relative;
+}
+
+#pu696 {
+    z-index: 6;
+    width: 0.01px;
+    margin-right: -10000px;
+    margin-top: 1px;
+    margin-left: 918px;
+}
+
+#u696 {
+    z-index: 6;
+    width: 62px;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.5s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+    background-image: url("../images/blank.gif");
+    background-color: #0013A3;
+    border-radius: 20px;
+    padding-bottom: 199px;
+    position: relative;
+    margin-right: -10000px;
+}
+
+#buttonu695:hover #u696 {
+    background-color: #0062C2;
+    border-radius: 18px;
+    width: 62px;
+    min-height: 0px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#buttonu695.ButtonSelected #u696 {
+    background-color: #0013A3;
+    border-radius: 20px;
+    width: 62px;
+    min-height: 0px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u1331 {
+    z-index: 14;
+    width: 41px;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.5s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    background-image: url("../images/blank.gif");
+    background-color: transparent;
+    opacity: 0.67;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=67)";
+    filter: alpha(opacity=67);
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 10px;
+    left: 12px;
+}
+
+#buttonu695:hover #u1331 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 41px;
+    min-height: 0px;
+    margin: 10px -10000px 0px 0px;
+}
+
+#buttonu695.ButtonSelected #u1331 {
+    opacity: 0.67;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=67)";
+    filter: alpha(opacity=67);
+    width: 41px;
+    min-height: 0px;
+    margin: 10px -10000px 0px 0px;
+}
+
+#u1350-4 {
+    z-index: 16;
+    width: 132px;
+    min-height: 41px;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-timing-function: ease;
+    transition-duration: 0.5s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    background-image: url("../images/blank.gif");
+    background-color: transparent;
+    opacity: 0.18;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=18)";
+    filter: alpha(opacity=18);
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    -webkit-transform: matrix(0, 1, -1, 0, 88, -44);
+    -ms-transform: matrix(0, 1, -1, 0, 88, -44);
+    transform: matrix(0, 1, -1, 0, 88, -44);
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 114px;
+    left: -35px;
+}
+
+#buttonu695:hover #u1350-4 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 41px;
+    width: 132px;
+    margin: 114px -10000px 0px 0px;
+}
+
+#buttonu695.ButtonSelected #u1350-4 {
+    opacity: 0.18;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=18)";
+    filter: alpha(opacity=18);
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 41px;
+    width: 132px;
+    margin: 114px -10000px 0px 0px;
+}
+
+#u693-bw {
+    z-index: 2;
+    min-height: 366px;
+}
+
+#u694 {
+    z-index: 3;
+    height: 130px;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    background: transparent url("../images/image_2024-06-24_02-20-43.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#u694-bw {
+    z-index: 3;
+    height: 130px;
+}
+
+#u632-4 {
+    z-index: 21;
+    display: block;
+    vertical-align: top;
+    margin-left: 290px;
+    top: -7px;
+    margin-bottom: -7px;
+    position: relative;
+}
+
+#pamphletu633 {
+    z-index: 25;
+    width: 0.01px;
+    height: 548px;
+    padding-bottom: 38px;
+    margin-left: 120px;
+    top: -2px;
+    margin-bottom: -2px;
+    position: relative;
+}
+
+#u665 {
+    z-index: 26;
+    width: 980px;
+    height: 7px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 540px;
+}
+
+#u667 {
+    position: absolute;
+    width: 490px;
+    height: 7px;
+    border-color: #DEDEDE;
+    background-color: #F15A24;
+}
+
+#u667:hover {
+    background-color: #000000;
+    width: 490px;
+    height: 7px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u666 {
+    position: absolute;
+    width: 490px;
+    height: 7px;
+    border-color: #DEDEDE;
+    background-color: #F15A24;
+    left: 490px;
+}
+
+#u667.PamphletThumbSelected,
+#u666:hover {
+    background-color: #000000;
+    width: 490px;
+    height: 7px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u666.PamphletThumbSelected {
+    background-color: #000000;
+    width: 490px;
+    height: 7px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u634 {
+    position: absolute;
+    width: 980px;
+    height: 586px;
+    background-color: transparent;
+}
+
+#u634popup {
+    z-index: 29;
+}
+
+#u635 {
+    z-index: 30;
+    width: 980px;
+    height: 509px;
+    border-width: 0px;
+    border-color: #999999;
+    background-color: transparent;
+    padding-bottom: 77px;
+    margin-right: -10000px;
+    position: relative;
+}
+
+#buttonu643 {
+    z-index: 31;
+    width: 434px;
+    height: 498px;
+    border-color: #787878;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 2px;
+    left: 40px;
+}
+
+#buttonu643.ButtonSelected {
+    width: 434px;
+    height: 498px;
+    min-height: 0px;
+    margin: 2px -10000px 0px 0px;
+}
+
+#buttonu643_position_content {
+    width: 100%;
+}
+
+#u647 {
+    z-index: 32;
+    width: 434px;
+    height: 243px;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    position: relative;
+    background: transparent url("../images/car_6.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu643:hover #u647 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 243px;
+    min-height: 0px;
+    margin: 0px;
+    background: transparent url("../images/car_6B.png") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu643.ButtonSelected #u647 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 243px;
+    min-height: 0px;
+    margin: 0px;
+    background: transparent url("../images/car_6.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#u1663 {
+    z-index: 45;
+    width: 434px;
+    height: 8px;
+    background-color: #000000;
+    margin-top: 10px;
+    position: relative;
+}
+
+#u648 {
+    z-index: 34;
+    height: 31px;
+    width: 433px;
+    vertical-align: top;
+    margin-left: 1px;
+    margin-top: 28px;
+    position: relative;
+    background: transparent url("../images/u648.png") no-repeat 0px 0px;
+}
+
+#buttonu643:hover #u648 {
+    background: transparent url("../images/u648-r.png") no-repeat 0px 0px;
+}
+
+#u644-9 {
+    z-index: 36;
+    display: block;
+    vertical-align: top;
+    margin-left: 1px;
+    margin-top: 14px;
+    position: relative;
+}
+
+#buttonu636 {
+    z-index: 46;
+    width: 434px;
+    height: 503px;
+    border-color: #787878;
+    background-color: transparent;
+    padding-left: 22px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    position: relative;
+    margin-right: -10000px;
+    left: 484px;
+}
+
+#buttonu636.ButtonSelected {
+    width: 434px;
+    height: 503px;
+    min-height: 0px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u637 {
+    z-index: 47;
+    width: 434px;
+    height: 243px;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    position: relative;
+    background: transparent url("../images/car_1Y.png") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu636:hover #u637 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 243px;
+    min-height: 0px;
+    margin: 0px;
+    background: transparent url("../images/car_1.png") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu636.ButtonSelected #u637 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 243px;
+    min-height: 0px;
+    margin: 0px;
+    background: transparent url("../images/car_1Y.png") no-repeat center center;
+    background-size: cover;
+}
+
+#u1664 {
+    z-index: 60;
+    width: 434px;
+    height: 8px;
+    background-color: #000000;
+    margin-top: 10px;
+    position: relative;
+}
+
+#u639 {
+    z-index: 49;
+    height: 31px;
+    width: 433px;
+    vertical-align: top;
+    margin-left: 1px;
+    margin-top: 35px;
+    position: relative;
+    background: transparent url("../images/u639.png") no-repeat 0px 0px;
+}
+
+#buttonu636:hover #u639 {
+    background: transparent url("../images/nultiplayer_text.png") no-repeat 0px 0px;
+}
+
+#u640-9 {
+    z-index: 51;
+    display: block;
+    vertical-align: top;
+    margin-left: 1px;
+    margin-top: 12px;
+    position: relative;
+}
+
+#u650 {
+    z-index: 61;
+    width: 980px;
+    height: 586px;
+    border-width: 0px;
+    border-color: #999999;
+    background-color: transparent;
+    margin-right: -10000px;
+    position: relative;
+}
+
+#buttonu658 {
+    z-index: 62;
+    width: 434px;
+    height: 558px;
+    border-color: #787878;
+    background-color: transparent;
+    padding-right: 2px;
+    padding-bottom: 26px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 2px;
+    left: 40px;
+}
+
+#buttonu658.ButtonSelected {
+    width: 434px;
+    height: 558px;
+    min-height: 0px;
+    margin: 2px -10000px 0px 0px;
+}
+
+#u661 {
+    z-index: 63;
+    width: 434px;
+    height: 243px;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    position: relative;
+    background: transparent url("../images/car_3.png") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu658:hover #u661 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 243px;
+    min-height: 0px;
+    margin: 0px;
+    background: transparent url("../images/car_3B.png") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu658.ButtonSelected #u661 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 243px;
+    min-height: 0px;
+    margin: 0px;
+    background: transparent url("../images/car_3.png") no-repeat center center;
+    background-size: cover;
+}
+
+#u1655 {
+    z-index: 78;
+    width: 434px;
+    height: 8px;
+    background-color: #000000;
+    margin-top: 10px;
+    position: relative;
+}
+
+#u659 {
+    z-index: 65;
+    height: 31px;
+    width: 433px;
+    vertical-align: top;
+    margin-left: 1px;
+    margin-top: 28px;
+    position: relative;
+    background: transparent url("../images/u659.png") no-repeat 0px 0px;
+}
+
+#buttonu658:hover #u659 {
+    background: transparent url("../images/u659-r.png") no-repeat 0px 0px;
+}
+
+#u663-11 {
+    z-index: 67;
+    display: block;
+    vertical-align: top;
+    margin-left: 1px;
+    margin-top: 14px;
+    position: relative;
+}
+
+#buttonu651 {
+    z-index: 79;
+    width: 434px;
+    height: 530px;
+    border-color: #787878;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+    left: 505px;
+    padding: 2px 3px 5px 1px;
+}
+
+#buttonu651.ButtonSelected {
+    width: 434px;
+    height: 530px;
+    min-height: 0px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u652 {
+    z-index: 80;
+    width: 434px;
+    height: 243px;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    position: relative;
+    background: transparent url("../images/car_5.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu651:hover #u652 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 243px;
+    min-height: 0px;
+    margin: 0px;
+    background: transparent url("../images/car_5B.png") no-repeat center center;
+    background-size: cover;
+}
+
+#buttonu651.ButtonSelected #u652 {
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    width: 434px;
+    height: 243px;
+    min-height: 0px;
+    margin: 0px;
+    background: transparent url("../images/car_5.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#u1658 {
+    z-index: 93;
+    width: 434px;
+    height: 8px;
+    background-color: #000000;
+    margin-top: 10px;
+    position: relative;
+}
+
+#buttonu643.ButtonSelected #u1663,
+#buttonu636.ButtonSelected #u1664,
+#buttonu658.ButtonSelected #u1655,
+#buttonu651.ButtonSelected #u1658 {
+    width: 434px;
+    height: 8px;
+    min-height: 0px;
+    margin: 10px 0px 0px;
+}
+
+#u657 {
+    z-index: 82;
+    height: 31px;
+    width: 433px;
+    vertical-align: top;
+    margin-left: 1px;
+    margin-top: 34px;
+    position: relative;
+    background: transparent url("../images/u657.png") no-repeat 0px 0px;
+}
+
+#buttonu651:hover #u657 {
+    background: transparent url("../images/u657-r.png") no-repeat 0px 0px;
+}
+
+#u653-9 {
+    z-index: 84;
+    display: block;
+    vertical-align: top;
+    margin-top: 12px;
+    position: relative;
+}
+
+.MenuItem,
+.PamphletWidget .ThumbGroup .Thumb,
+.PamphletNextButton,
+.PamphletPrevButton,
+.PamphletCloseButton {
+    cursor: pointer;
+}
+
+#u3161 {
+    z-index: 143;
+    width: 27px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #7F7F7F;
+    background-color: #000000;
+    opacity: 0.7;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+    filter: alpha(opacity=70);
+    border-radius: 26px;
+    -webkit-transform: matrix(-1, 0, 0, -1, 35, 35);
+    -ms-transform: matrix(-1, 0, 0, -1, 35, 35);
+    transform: matrix(-1, 0, 0, -1, 35, 35);
+    position: fixed;
+    top: 1849px;
+    left: 1002px;
+}
+
+.js #u3161.ose_pre_init {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+}
+
+.css_verticalspacer .verticalspacer {
+    height: calc(100vh - 1977px);
+}
+
+#u1708 {
+    z-index: 94;
+    min-height: 48px;
+    padding-bottom: 10px;
+}
+
+#u693_align_to_page,
+#u1708_align_to_page {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 1020px;
+    left: -100px;
+}
+
+#u1847 {
+    z-index: 97;
+    width: 38px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 10px;
+    left: 158px;
+}
+
+#u1864 {
+    z-index: 99;
+    width: 38px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 10px;
+    left: 218px;
+}
+
+#u1837 {
+    z-index: 95;
+    width: 38px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 10px;
+    left: 278px;
+}
+
+#u1897 {
+    z-index: 101;
+    width: 38px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 10px;
+    left: 338px;
+}
+
+#u1907 {
+    z-index: 103;
+    width: 38px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 10px;
+    left: 399px;
+}
+
+#u1927 {
+    z-index: 105;
+    width: 38px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 10px;
+    left: 459px;
+}
+
+#u1937 {
+    z-index: 107;
+    width: 38px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 10px;
+    left: 519px;
+}
+
+#u1947-4 {
+    z-index: 109;
+    width: 533px;
+    min-height: 17px;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 25px;
+    left: 571px;
+}
+
+#u1708-bw {
+    z-index: 94;
+    min-height: 48px;
+    margin-top: -1px;
+}
+
+#muse_css_mq,
+.html {
+    background-color: #FFFFFF;
+}
+
+body {
+    position: relative;
+    min-width: 1020px;
+}
+
+.verticalspacer {
+    min-height: 1px;
+}

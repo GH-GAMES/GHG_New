@@ -1,0 +1,21 @@
+#u1708 {
+    background-color: #000000;
+}
+
+#u1847,
+#u1864,
+#u1837,
+#u1897,
+#u1907,
+#u1927,
+#u1937 {
+    background-color: transparent;
+}
+
+#u1947-4 {
+    background-color: transparent;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 11px;
+    line-height: 13px;
+}
