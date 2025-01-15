@@ -1369,7 +1369,20 @@
 #u2054:hover #u2055 {
     background: transparent url("../images/u2055-r.png") no-repeat 0px 0px;
 }
+#u2056 {
+    height: 34px;
+    width: 63px;
+    vertical-align: top;
+    position: relative;
+    margin-right: -10000px;
+    top: 1px;
+    left: -200px;
+    background: transparent url("../images/favicon.ico") no-repeat 0px 0px;
+}
 
+#u2054:hover #u2056 {
+    background: transparent url("../images/favicon.ico") no-repeat 0px 0px;
+}
 #u2044 {
     width: 169px;
     min-height: 34px;
