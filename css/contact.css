@@ -397,7 +397,7 @@
 }
 
 #u3465 {
-    width: 146px;
+    width: 100px;
     min-height: 34px;
     background-color: transparent;
     position: relative;
@@ -405,20 +405,20 @@
 }
 
 #u3466 {
-    width: 146px;
+    width: 100px;
     background-color: transparent;
     padding-bottom: 10px;
     position: relative;
 }
 
 #u3466:hover {
-    width: 146px;
+    width: 100px;
     min-height: 0px;
     margin: 0px;
 }
 
 #u3466:active {
-    width: 146px;
+    width: 100px;
     min-height: 0px;
     margin: 0px;
 }
@@ -463,13 +463,6 @@
     margin-right: -10000px;
 }
 
-#u3461 {
-    width: 19px;
-    background-color: transparent;
-    padding-bottom: 10px;
-    position: relative;
-    transition-duration: 0.5s; /* Плавный переход при наведении */
-}
 
 #u3461:hover {
     width: 100px; /* Убедитесь, что ширина остается прежней */
@@ -483,7 +476,7 @@
     position: relative;
     margin-right: -10000px;
     top: 5px; /* Вертикальное смещение */
-    left: 188px; /* Горизонтальное смещение */
+    left: 200px; /* Горизонтальное смещение */
     background: transparent url("../images/contact_white.png") no-repeat; /* Фоновое изображение */
 }
 
@@ -631,24 +624,9 @@ body {
     min-height: 1px;
 }
 
-#u2048 {
-    width: 19px;
-    background-color: transparent;
-    padding-bottom: 10px;
-    position: relative;
-}
 
-#u2048:hover {
-    width: 19px;
-    min-height: 0px;
-    margin: 0px;
-}
 
-#u2048:active {
-    width: 19px;
-    min-height: 0px;
-    margin: 0px;
-}
+
 
 #u2050 {
     height: 24px;
