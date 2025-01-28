@@ -425,7 +425,7 @@
 
 #u3469 {
     height: 24px;
-    width: 63px;
+    width: 73px;
     vertical-align: top;
     position: relative;
     margin-right: -10000px;
@@ -441,54 +441,60 @@
 #u3466.MuseMenuActive #u3469 {
     background: transparent url("../images/about_orange_light.png") no-repeat 0px 0px;
 }
+------------------------------------------------------------
+#menuu3458 {
+    z-index: 64;
+    width: 19px; /* Установите ширину в соответствии с вашим элементом */
+    height: 34px;
+    border-width: 0px;
+    border-color: transparent;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+    margin-top: 28px; /* Положение по вертикали */
+    left: -148px; /* Положение по горизонтали */
+}
 
 #u3458 {
-    width: 169px;
+    width: 19px;
     min-height: 34px;
     background-color: transparent;
     position: relative;
     margin-right: -10000px;
-    left: 148px;
 }
 
 #u3461 {
-    width: 169px;
-    -webkit-transition-duration: 0s;
-    -webkit-transition-delay: 0s;
-    transition-duration: 0s;
-    transition-delay: 0s;
-    background-image: url("../images/blank.gif");
+    width: 19px;
     background-color: transparent;
     padding-bottom: 10px;
     position: relative;
+    transition-duration: 0.5s; /* Плавный переход при наведении */
 }
 
-#u3461.MuseMenuActive {
-    -webkit-transition-duration: 1s;
-    -webkit-transition-delay: 0s;
-    -webkit-transition-timing-function: ease;
-    transition-duration: 1s;
-    transition-delay: 0s;
-    transition-timing-function: ease;
-    width: 169px;
-    min-height: 0px;
-    margin: 0px;
+#u3461:hover {
+    width: 100px; /* Убедитесь, что ширина остается прежней */
+    min-height: 34px; /* Высота при наведении */
 }
 
-#u3463-4 {
+#u3463 {
+    height: 24px;
+    width: 100px; /* Ширина изображения */
+    vertical-align: top;
     position: relative;
     margin-right: -10000px;
-    top: 5px;
-    left: 41px;
+    top: 5px; /* Вертикальное смещение */
+    left: 188px; /* Горизонтальное смещение */
+    background: transparent url("../images/contact_white.png") no-repeat; /* Фоновое изображение */
 }
 
-#u3463-4_clip {
-    overflow: hidden;
-    width: 86px;
-    height: 24px;
-    display: block;
-    vertical-align: top;
+#u3461:hover #u3463 {
+    background: transparent url("../images/contact_orange.png") no-repeat; /* Изменение фона при наведении */
 }
+
+#u3461.MuseMenuActive #u3463 {
+    background: transparent url("../images/contact_orange_light.png") no-repeat; /* Активное состояние */
+}
+
 
 .MenuItem {
     cursor: pointer;
@@ -651,7 +657,7 @@ body {
     position: relative;
     margin-right: -10000px;
     top: 5px;
-    left: -105px;
+    left: -118px;
     background: transparent url("../images/rccm_white.png") no-repeat 0px 0px;
 }
 
