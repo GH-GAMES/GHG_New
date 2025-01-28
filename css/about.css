@@ -1370,18 +1370,18 @@
     background: transparent url("../images/u2055-r.png") no-repeat 0px 0px;
 }
 #u2056 {
-    height: 34px;
-    width: 63px;
+    height: 24px;
+    width: 80px;
     vertical-align: top;
     position: relative;
     margin-right: -10000px;
-    top: 1px;
-    left: -200px;
-    background: transparent url("../images/favicon.ico") no-repeat 0px 0px;
+    top: 5px;
+    left: -255px;
+    background: transparent url("../images/rccm_white.png") no-repeat 0px 0px;
 }
 
 #u2054:hover #u2056 {
-    background: transparent url("../images/favicon.ico") no-repeat 0px 0px;
+    background: transparent url("../images/rccm_orange.png") no-repeat 0px 0px;
 }
 #u2044 {
     width: 169px;
@@ -1392,6 +1392,14 @@
     left: 148px;
 }
 
+#u2045 {
+    width: 169px;
+    min-height: 34px;
+    background-color: transparent;
+    position: relative;
+    margin-right: -10000px;
+    left: 148px;
+}
 #u2047 {
     width: 169px;
     background-color: transparent;
@@ -1424,6 +1432,40 @@
 
 #u2047:hover #u2049 {
     background: transparent url("../images/u2049-r.png") no-repeat 0px 0px;
+}
+
+#u2048 {
+    width: 169px;
+    background-color: transparent;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+#u2048:hover {
+    width: 169px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u2048:active {
+    width: 169px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u2050 {
+    height: 24px;
+    width: 80px;
+    vertical-align: top;
+    position: relative;
+    margin-right: -10000px;
+    top: 5px;
+    left: -255px;
+    background: transparent url("../images/rccm_white.png") no-repeat 0px 0px;
+}
+
+#u2048:hover #u2050 {
+    background: transparent url("../images/rccm_orange.png") no-repeat 0px 0px;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,

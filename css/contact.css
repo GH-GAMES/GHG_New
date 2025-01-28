@@ -624,3 +624,37 @@ body {
 .verticalspacer {
     min-height: 1px;
 }
+
+#u2048 {
+    width: 19px;
+    background-color: transparent;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+#u2048:hover {
+    width: 19px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u2048:active {
+    width: 19px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u2050 {
+    height: 24px;
+    width: 80px;
+    vertical-align: top;
+    position: relative;
+    margin-right: -10000px;
+    top: 5px;
+    left: -105px;
+    background: transparent url("../images/rccm_white.png") no-repeat 0px 0px;
+}
+
+#u2048:hover #u2050 {
+    background: transparent url("../images/rccm_orange.png") no-repeat 0px 0px;
+}
