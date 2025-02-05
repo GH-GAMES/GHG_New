@@ -90,7 +90,10 @@
     vertical-align: top;
     position: relative;
     margin-right: -10000px;
+    margin-left: 150px;
     margin-top: 368px;
+    max-height: 500px;
+    max-width: 900px;
     
 }
 
@@ -132,7 +135,7 @@
     position: relative;
     margin-right: -10000px;
     margin-top: 28px;
-    left: 826px;
+    left: 726px;
 }
 
 #u745 {
@@ -178,12 +181,12 @@
 }
 
 #u752 {
-    width: 169px;
+    width: 160px;
     min-height: 34px;
     background-color: transparent;
     position: relative;
     margin-right: -10000px;
-    left: 148px;
+    left: 160px;
 }
 
 #u753 {
@@ -1028,7 +1031,7 @@
     transform: matrix(-1, 0, 0, -1, 35, 35);
     position: fixed;
     top: 1849px;
-    left: 1002px;
+    left: 985px;
 }
 
 .js #u3161.ose_pre_init {
@@ -1148,5 +1151,4 @@ body {
 .verticalspacer {
     min-height: 1px;
 }
-
 

@@ -22,6 +22,8 @@
     padding-bottom: 2773px;
     margin-right: -10000px;
     margin-top: -123px;
+    height: 1000px;
+    width: 1000px;
 }
 
 #u2269 {
@@ -38,8 +40,31 @@
     display: block;
     vertical-align: top;
     position: fixed;
-    top: -115px;
-    left: 530px;
+    top: -10%; /* Относительное значение для отступа сверху */
+    left: 50%; /* Центрирование по горизонтали */
+    transform: translateX(-50%); /* Точное центрирование */
+    width: 100%; /* Ширина изображения будет адаптироваться под ширину экрана */
+    height: auto; /* Высота будет автоматически подстраиваться */
+    max-width: 1000px; /* Максимальная ширина изображения */
+    max-height: 1000px; /* Максимальная высота изображения */
+}
+
+/* Медиа-запрос для телефонов (обычно до 768px) */
+@media (max-width: 768px) {
+    #u2293 {
+        top: -5%; /* Меньше отступ сверху для телефонов */
+        width: 150%; /* Увеличиваем ширину, чтобы изображение лучше заполняло экран */
+        left: 50%; /* Центрирование */
+        transform: translateX(-50%); /* Точное центрирование */
+    }
+}
+
+/* Медиа-запрос для очень маленьких экранов (например, iPhone SE) */
+@media (max-width: 480px) {
+    #u2293 {
+        top: -2%; /* Еще меньше отступ сверху */
+        width: 180%; /* Еще больше ширина для маленьких экранов */
+    }
 }
 
 #u2307 {
@@ -197,7 +222,7 @@
     position: relative;
     margin-right: -10000px;
     margin-top: 425px;
-    padding: 141px 43px 17px 465px;
+    padding: 141px 0px 1px 465px;
 }
 
 #buttonu3034:hover {
@@ -472,8 +497,8 @@
     transform: matrix(-1, 0, 0, -1, 35, 35);
     position: relative;
     margin-right: -10000px;
-    margin-top: 2600px;
-    left: 1426px;
+    margin-top: 2620px;
+    left: 1390px;
 }
 
 #verh-about {
@@ -1300,7 +1325,7 @@
     position: relative;
     margin-right: -10000px;
     margin-top: 28px;
-    left: 1132px;
+    left: 1100px;
 }
 
 #u2051 {
@@ -1495,10 +1520,6 @@
     margin: 22px -10000px 0px 0px;
 }
 
-.css_verticalspacer .verticalspacer {
-    height: calc(100vh - 2711px);
-}
-
 #u1708 {
     z-index: 157;
     min-height: 48px;
@@ -1590,17 +1611,21 @@
 #u1708-bw {
     z-index: 157;
     min-height: 48px;
-    margin-top: -1px;
+    margin-top: -995px;
 }
 
 #muse_css_mq,
 .html {
     background-color: #FFFFFF;
 }
+.css_verticalspacer .verticalspacer {
+    height: calc(100vh - 1328px);
+}
 
 body {
     position: relative;
     min-width: 1020px;
+    height: 100px;
 }
 
 .verticalspacer {

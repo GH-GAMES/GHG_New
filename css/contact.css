@@ -617,11 +617,8 @@
 
 body {
     position: relative;
-    min-width: 1020px;
-}
-
-.verticalspacer {
-    min-height: 1px;
+    min-width: 375px;
+    height: 100%;
 }
 
 
